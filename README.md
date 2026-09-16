@@ -9,7 +9,6 @@ https://zenodo.org/doi/10.5281/zenodo.19435350
 All analyses in this study can be fully reproduced using the provided code and processed data. The analysis pipeline follows standard single-cell RNA-seq workflows, with detailed parameter settings documented in the R script.
 
 ## Citation
-## Citation
 
 If you use this code or data in your research, please cite:
 
